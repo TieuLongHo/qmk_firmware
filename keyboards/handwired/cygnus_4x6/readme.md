@@ -13,7 +13,7 @@ _A short description of the keyboard/project_
 To compile the default keymap, run the following command in the QMK firmware root directory:
 
 ```bash
-qmk compile -kb handwired/cygnus_4x6 -km default
+make handwired/cygnus_4x6:default
 ```
 
 ## Flashing Instructions
