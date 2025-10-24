@@ -21,12 +21,6 @@
         "command": true,
         "via": true
     },
-    "qmk": {
-        "locking": {
-            "enabled": true,
-            "resync": true
-        }
-    },
     "split": {
         "enabled": true,
         "serial": {
